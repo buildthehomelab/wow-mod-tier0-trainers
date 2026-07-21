@@ -1,0 +1,9 @@
+#
+# mod-tier0-trainers
+#
+[worldserver]
+
+# Tier0Trainers.Enable
+#        Description: Documented enable flag (SQL applies when module is installed)
+#        Default: 1
+Tier0Trainers.Enable = 1
